@@ -1,5 +1,5 @@
 {
-  "packageName": "portainer",
-  "packageVersion": "1.20.2",
-  "projectName": "portainer"
+  "packageName": "portainer_api",
+  "packageVersion": "1.20.2.dev1",
+  "projectName": "portainer-api"
 }

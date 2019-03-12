@@ -525,7 +525,7 @@ paths:
         **Access policy**: administrator
       operationId: "EndpointJob"
       consumes:
-      - "multipart/form-data"
+      - "application/json"
       produces:
       - "application/json"
       security:
@@ -1434,7 +1434,7 @@ paths:
         **Access policy**: restricted
       operationId: "StackCreate"
       consumes:
-      - "multipart/form-data"
+      - "application/json"
       produces:
       - "application/json"
       security:
